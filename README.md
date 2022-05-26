@@ -1,0 +1,2 @@
+# qqq
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1c84aeafc71142869e705b3c30d18144)](https://app.codacy.com/gh/hehe02921/qqq?utm_source=github.com&utm_medium=referral&utm_content=hehe02921/qqq&utm_campaign=Badge_Grade_Settings)
